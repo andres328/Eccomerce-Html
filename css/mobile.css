@@ -1,0 +1,19 @@
+ @media (max-width: 800px) {
+  .Products{
+    display: inherit;
+    height: auto;
+    }
+  .producto, .productoe, .mencion{
+    margin-top: auto;
+  }
+  .main_section,{
+    padding: 4%;
+  }
+  .Products2, .menciones{
+    display: inherit;
+    height: auto;
+  }
+  .pie{
+  margin-top: 180%;
+  }
+}
